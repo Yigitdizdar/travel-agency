@@ -1,0 +1,132 @@
+.all{width: 650px;
+height: auto;}
+.top {
+    width: 650px;
+    height: 50px;
+    
+    margin: 0 auto;
+
+}
+.logo{
+    width: 60px;
+    height: 50px;
+    font-size: 20px;
+    line-height: 50px;
+    margin-left:50px;
+    font-weight: bold;
+    float: left;
+}
+.menu{
+    width: 500px;
+    height: 50px;
+   
+    float: right;
+    
+}
+.menu ul{
+    list-style-type: none;
+    width: 500px;
+    height: 50px;
+    padding: 0px;
+}
+.menu ul li{
+    width: 55px;
+    height: 20px;
+    font-size: 10px;
+    margin-left: 10px;
+    line-height: 20px;
+    
+    float: left;
+    text-align: center;
+
+}
+.menu ul li:hover{
+    width: 54px;
+    height: 19px;
+    font-size: 10px;
+    margin-left: 10px;
+    line-height: 19px;
+    border:1px solid gray;
+    float: left;
+    text-align: center;
+    border-radius: 5px;
+
+
+}
+.mid1{
+    width: 650px;
+    height: 600px;
+   
+}
+.g img{
+    width: 300px;
+    height: 300px;
+    float: right;
+    margin-top: 20px;
+    
+    
+}
+.txt1{
+    width: 350px;
+    height: 500px;
+   
+    float: left;
+}
+.a{
+    width: 200px;
+    height: 15px;
+    font-size: 10px;
+    color: darkred;
+    font-weight: bold;
+    margin-top: 20px;
+     margin-left: 50px;
+    float: left;
+}
+.b{
+    width: 250px;
+    height: 150px;
+    float: left;
+    margin-left:50px;
+   
+    font-size: 40px;
+    margin-top:20px;
+}
+.c{
+    width: 250px;
+    
+    float: left;
+    margin-left:50px;
+    margin-top:20px;
+    color: darkgray;
+    font-size: 10px;
+
+}
+.d{
+    background-color: orange;
+    width: 100px;
+    height: 35px;
+    float: left;
+    margin-left: 50px;
+    border: 0;
+    border-radius: 10px;
+    margin-top: 20px;
+
+}
+.e{
+    width: 35px;
+    height: 35px;
+border: 0;
+border-radius: 50px;
+float:left;
+margin-top: 20px;
+margin-left: 20px;
+background-color: darkred;
+
+}
+.f{
+    width: 100px;
+    height: 35px;
+    float: left;
+    margin-top: 20px;
+    line-height: 35px;
+}
